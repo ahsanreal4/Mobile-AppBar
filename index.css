@@ -12,6 +12,10 @@
   --appbar-active-color: #29fd53;
 }
 
+.list:hover {
+  cursor: pointer;
+}
+
 .navigation-container {
   display: flex;
   justify-content: center;
